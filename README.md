@@ -16,7 +16,7 @@ Clone the Repository
 
 
 Copy code
-git clone https://github.com/yourusername/cv-builder.git
+git clone https://github.com/YashDoifode1/CV_BUILDER.git
 Navigate to the Project Directory
 
 
@@ -53,7 +53,7 @@ Acknowledgments
 TCPDF: For making PDF generation easy and customizable.
 GitHub: For hosting and version control.
 Contact
-For any questions or feedback, feel free to reach out to me at your.email@example.com.
+For any questions or feedback, feel free to reach out to me at your .
 
 Feel free to adjust the links, contact information, and other details to fit your project. This README provides a clear overview of what your project does, how to get started, and how others can contribute.
 
